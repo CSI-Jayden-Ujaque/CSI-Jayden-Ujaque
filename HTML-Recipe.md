@@ -1,0 +1,38 @@
+<h1> HTML Recipe <h1>
+<h2> Christmas Recipe: Sopa de pollo básica <h2>
+
+
+<h3> Ingredients: <h3>
+
+<ul>
+  <li> 1 cucharad a de aceite de oliva o canola </li>
+  <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Ac3Wc8lR-MLOFTVj-K2OplbthGRFsO8cGA&usqp=CAU" width= "19%" height= "28%" />
+  <li> 1 cebolla finamente picada </li>
+  <img src= "https://5aldia.cl/wp-content/uploads/2018/03/cebolla.jpg" width= "19%" height= "22%" />
+  <li> 2 tallos de apio cortados en rodajas </li>
+  <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwOteQELWBfPKH8PL3LWVpZUwyRSTs1xkkpw&usqp=CAU" width= "19%" height= "22%" />
+  <li> 2 zanahorias limpias (cepilladas/restregadas) o peladas y cortadas en rodajas </li>
+  <img scr= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWGW_s8VzEw9McB96UBz8jVnhx7IIsTxq_lg&usqp=CAU" width= "19%" height= "28%" />
+  <li> 8 tazas de caldo de pollo con bajo contenido de sodio (o más, si le gusta con mucho caldo) </li>
+  <img scr= "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi0.wp.com%2Funapizcadeamor.com%2Fwp-content%2Fuploads%2F2020%2F09%2FDSC0646.jpg%3Fresize%3D800%252C530%26ssl%3D1&imgrefurl=https%3A%2F%2Funapizcadeamor.com%2Freceta-de-sopa-de-pollo-con-fideos%2F&tbnid=fXTn0FAL6zwgkM&vet=12ahUKEwiPh7q11sb0AhVCFt8KHepYAnMQMygCegQIARAU..i&docid=08jhNtwAuLFXTM&w=800&h=530&itg=1&q=8%20tazas%20de%20caldo%20de%20pollo%20con%20bajo%20contenido%20de%20sodio%20(o%20m%C3%A1s%2C%20si%20le%20gusta%20con%20mucho%20caldo)&ved=2ahUKEwiPh7q11sb0AhVCFt8KHepYAnMQMygCegQIARAU" width= "19%" height= "22%" />
+  <li> ½ taza de arroz integral, cebada o pasta pequeña (de letras u "orzo") </li>
+  <img scr= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFEbpmswq2Ko9AnWxIV9dmszzRecZH7F7H8g&usqp=CAU" width= "19%" height= "22%" />
+  <li> 2 tazas de pollo cocido desmenuzado </li>
+  <img src= "https://sansae.com/wp-content/uploads/2019/02/3-formas-desmenuzar-el-pollo-que-te-facilitara-la-vida.png" width= "19%" height= "22%" />
+<ul>
+
+
+<h3> Steps: <h3>
+<ol>
+  <li> Coloque la olla sobre la hornilla a fuego medio. Cuando esté caliente (salpique con unas gotas de agua: deben saltar y evaporarse inmediatamente), agregue el aceite con cuidado </li>
+  <li> Agregue la cebolla, el apio y las zanahorias y cocine hasta que las verduras estén tiernas, de 10 a 15 minutos </li>
+  <li> Agregue el caldo de pollo, ponga el fuego en alto y deje hervir. (Sabrá que el caldo está hirviendo cuando se ven burbujas en toda la superficie). Baje el fuego y cocine con la olla destapada hasta que las verduras estén tiernas y ya no floten en la superficie, alrededor de 30 minutos </li>
+  <li> Agregue el arroz, la cebada o la pasta y cocine hasta que esté tierno, durante unos 20 minutos para la pasta y 40 minutos para el arroz integral o la cebada. (Si lo desea, puede usar sobrantes de pasta o cereales cocidos. Si es así, omita este paso y agrégalos junto con el pollo en el paso 5. Esto reducirá además 20 minutos del tiempo de cocción) </li>
+  <li> Agregue el pollo, mezcle y cocine hasta que todo se caliente, durante unos 3 minutos </li>
+  <li> Sirva inmediatamente o tápela y guárdela en el refrigerador hasta 3 días como máximo </li>
+<ol>
+
+
+
+
+  
