@@ -14,7 +14,7 @@
 <br>
 
 <p>
-    Dwayne Douglas Johnson is an American actor and professional wrestler, popularly known as “The Rock” or “The Rock.” He served as a professional wrestler for WWE until his official retirement in 2019, with the aim of focusing on his artistic career. His networth right now is 400 million.
+    Dwayne Douglas Johnson, also known as "The Rock". Is an American actor and professional wrestler. He was a professional wrestler for WWE until 2019, when he started his retirement to focus on his creative career. His current net worth is $400 million.
 </p>
 
 <br>
@@ -37,7 +37,7 @@
             height="50%" 
             />
 </p> 
-
+He made his professional wrestling debut in the United States Wrestling Association (USWA), where he won the tag team championship with Brett Sawyer. Dwayne became Rocky Maivia in the WWE in 1996, when he joined a group known as "The Nation of Domination" and turned villain. Rocky ultimately became the Nation's leader and got "The Rock".
 <p>
     
 </p>   
@@ -48,6 +48,9 @@
     <tr>
         <th>Name</th>
         <td>Dwayne</td>
+    <tr>
+        <th>Last Name</th>
+        <td>Johnson</td>
     </tr>
     <tr>
         <th>Age</th>
@@ -77,6 +80,9 @@
         <th>Spotify</th>
         <td>@Dwayne Johnson</a></td>
     </tr>
+    <tr>
+        <th>Facebook</th>
+        <td>@Dwayne The Rock Johnson</a></td>
     
 </table>
 
